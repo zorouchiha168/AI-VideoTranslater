@@ -1,0 +1,8 @@
+{
+  "name": "Remix LingaDub Studio",
+  "description": "AI Movie \u0026 Story Translator, Character Voice Dubber, and Auto-Subtitler Tool with Khmer Unicode and multilingual lip-sync localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
